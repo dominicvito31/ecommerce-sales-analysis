@@ -19,6 +19,8 @@ This project analyzes e-commerce sales data to identify revenue drivers, product
 
 https://public.tableau.com/views/Milestone2Dashboard_17700270972680/E-CommerceSalesAnalysis
 
+![Dashboard](docs/dashboard.png)
+
 ## Tools
 
 Python, Pandas, Matplotlib, SciPy, Tableau
